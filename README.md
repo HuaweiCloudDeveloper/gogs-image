@@ -45,7 +45,7 @@ This project provides an open-source mirror product [**Gogs**](), which has Gogs
 
 | Image Specification          | Feature Description                                        | Remarks |
 |-------------------------|------------------------------------------------| --- |
-| [gogs-0.14.0-Kunpeng-v1.0]() | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| [gogs-0.13.3-Kunpeng-v1.0]() | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Get Help
 - For more questions, you can contact us via [issues](https://github.com/HuaweiCloudDeveloper/gogs-image/issues) or the service support of the specified product in the Huawei Cloud Marketplace.
