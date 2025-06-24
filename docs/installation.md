@@ -18,7 +18,7 @@ yum -y upgrade
 
 ### 1.拉取镜像
 ```bash
-docker pull apache/gogs:latest
+docker pull ghcr.io/gogs/gogs:0.13.3
 ```
 
 ### 2.创建容器
@@ -30,5 +30,5 @@ docker run -d \
   -v /opt/gogs/data:/data \
   -e GOGS_RUN_USER=git \
   --restart always \
-  gogs/gogs:latest
+  ghcr.io/gogs/gogs:0.13.3
 ```

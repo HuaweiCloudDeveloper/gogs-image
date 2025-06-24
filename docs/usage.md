@@ -66,7 +66,7 @@
 ```bash
 docker ps
 ```
-![img_1.png](images/img_4.png)
+![img.png](images/img_4.png)
 
 如果没有启动，可以手动启动，启动命令
 ```bash
