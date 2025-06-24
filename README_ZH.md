@@ -45,7 +45,7 @@
 
 | 镜像规格                    | 特性说明                                           | 备注 |
 |-------------------------|------------------------------------------------| --- |
-| [gogs-0.14.0-鲲鹏-v1.0]() | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [gogs-0.13.3-鲲鹏-v1.0]() | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/gogs-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
