@@ -31,7 +31,7 @@
 - Support a variety of database backends, including PostgreSQL, MySQL, SQLite3, and TiDB
 - Localization in over [31 languages](https://crowdin.com/project/gogs)
 
-This project provides an open-source mirror product [**Gogs**](), which has Gogs and its related runtime environment pre-installed and provides deployment templates. Come and follow the usage guide to easily start an "out-of-the-box" and efficient experience!
+This project provides an open-source mirror product [**Gogs**](https://marketplace.huaweicloud.com/intl/hidden/contents/85eeedf0-4aac-4d62-9205-da4f6357087a), which has Gogs and its related runtime environment pre-installed and provides deployment templates. Come and follow the usage guide to easily start an "out-of-the-box" and efficient experience!
 
 > **System requirements are as follows:**
 > - CPU: 2GHz or higher
@@ -45,7 +45,7 @@ This project provides an open-source mirror product [**Gogs**](), which has Gogs
 
 | Image Specification          | Feature Description                                        | Remarks |
 |-------------------------|------------------------------------------------| --- |
-| [gogs-0.13.3-Kunpeng-v1.0]() | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| [gogs-0.13.3-Kunpeng](https://github.com/HuaweiCloudDeveloper/gogs-image/tree/gogs-0.13.3-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Get Help
 - For more questions, you can contact us via [issues](https://github.com/HuaweiCloudDeveloper/gogs-image/issues) or the service support of the specified product in the Huawei Cloud Marketplace.
