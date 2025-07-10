@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[gogs自助git服务]()
+[gogs自助git服务](https://marketplace.huaweicloud.com/hidden/contents/5a704ba0-f51c-42cc-9947-71f2f50072bd#productid=OFFI1148937988424810496)
 
 # 二、商品说明
 
