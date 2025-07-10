@@ -31,7 +31,7 @@
 - 多样的数据库后端，包括 PostgreSQL、MySQL、SQLite3 和 TiDB
 - 超过 [31 种语言](https://crowdin.com/project/gogs) 的本地化
 
-本项目提供的开源镜像商品 [**Gogs**]()，已预先安装 Gogs 及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**Gogs**](https://marketplace.huaweicloud.com/hidden/contents/5a704ba0-f51c-42cc-9947-71f2f50072bd#productid=OFFI1148937988424810496)，已预先安装 Gogs 及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
 > - CPU: 2GHz 或更高
@@ -45,7 +45,7 @@
 
 | 镜像规格                    | 特性说明                                           | 备注 |
 |-------------------------|------------------------------------------------| --- |
-| [gogs-0.13.3-鲲鹏-v1.0]() | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [gogs-0.13.3-kunpeng](https://github.com/HuaweiCloudDeveloper/gogs-image/tree/gogs-0.13.3-kunpeng) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/gogs-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
