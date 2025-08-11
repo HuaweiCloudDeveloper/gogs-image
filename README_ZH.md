@@ -31,7 +31,7 @@
 - 多样的数据库后端，包括 PostgreSQL、MySQL、SQLite3 和 TiDB
 - 超过 [31 种语言](https://crowdin.com/project/gogs) 的本地化
 
-本项目提供的开源镜像商品 [**Gogs**](https://marketplace.huaweicloud.com/hidden/contents/5a704ba0-f51c-42cc-9947-71f2f50072bd#productid=OFFI1148937988424810496)，已预先安装 Gogs 及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**Gogs**](https://marketplace.huaweicloud.com/contents/5a704ba0-f51c-42cc-9947-71f2f50072bd#productid=OFFI1148937988424810496)，已预先安装 Gogs 及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
 > - CPU: 2GHz 或更高
